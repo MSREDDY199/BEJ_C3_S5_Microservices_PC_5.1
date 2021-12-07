@@ -1,0 +1,16 @@
+com\niit\userproductservice\exception\UserAlreadyExistsException.class
+com\niit\userproductservice\exception\ProductNotFoundException.class
+com\niit\userproductservice\model\Product.class
+com\niit\userproductservice\repository\ProductRepository.class
+com\niit\userproductservice\controller\ProductController.class
+com\niit\userproductservice\config\Producer.class
+com\niit\userproductservice\model\User.class
+com\niit\userproductservice\model\ProductDescription.class
+com\niit\rabbitmq\model\UserDTO.class
+com\niit\userproductservice\service\ProductServiceImpl.class
+com\niit\UserProductServiceApplication.class
+com\niit\userproductservice\config\MessageConfiguration.class
+com\niit\userproductservice\repository\UserRepository.class
+com\niit\userproductservice\exception\ProductAlreadyExistException.class
+com\niit\userproductservice\exception\UserNotFoundExcception.class
+com\niit\userproductservice\service\ProductService.class

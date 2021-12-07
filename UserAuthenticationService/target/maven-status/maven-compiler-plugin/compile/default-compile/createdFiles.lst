@@ -1,0 +1,13 @@
+com\niit\userproductservice\exception\UserAlreadyExistsException.class
+com\niit\userproductservice\service\UserService.class
+com\niit\userproductservice\service\SecurityTokenGeneratorImpl.class
+com\niit\userproductservice\config\Consumer.class
+com\niit\userproductservice\service\SecurityTokenGenerator.class
+com\niit\userproductservice\controller\UserController.class
+com\niit\UserAuthenticationServiceApplication.class
+com\niit\rabbitmq\modal\UserDTO.class
+com\niit\userproductservice\config\MessageConfiguration.class
+com\niit\userproductservice\modal\User.class
+com\niit\userproductservice\repository\UserRepository.class
+com\niit\userproductservice\service\UserServiceImpl.class
+com\niit\userproductservice\exception\UserNotFoundException.class
